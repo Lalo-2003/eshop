@@ -20,7 +20,7 @@ export const categories = [
     icon: GiPoloShirt,
   },
   {
-    label: "Especiales",
+    label: "Polo",
     icon: TbShirtSport,
   },
   {
