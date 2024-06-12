@@ -17,7 +17,7 @@ const Footer = () => {
             <h3 className="text-base font-bold mb-2">Categorias de la tienda</h3>
             <Link href="#">Playeras</Link>
             <Link href="#">Camisas</Link>
-            <Link href="#">Especiales</Link>
+            <Link href="#">Polo</Link>
             <Link href="#">Paquetes</Link>
             <Link href="#">Parejas</Link>
             <Link href="#">Empresas</Link>
